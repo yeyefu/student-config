@@ -57,7 +57,7 @@ mybatis-plus:
   type-aliases-package: com.jt.springcloud.pojo
   mapper-locations: classpath:/mybatis/mappers/*.xml
   configuration:
-    map-underscore-to-camel-case: true  #自动开启驼峰规则映射
+    map-underscore-to-camel-case: true  #自动开启驼峰规则映射  自动开启驼峰规则映射 
 
 
 
